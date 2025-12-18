@@ -17,7 +17,7 @@ I'm a highly motivated individual passionate about transforming complex data int
 
 ## 🛠️ My Current Stack & Learning Focus
 
--   **I'm focused on mastering:** SQL (MySQL), and Data Visualization (Tableau).
+-   **I'm focused on learning:** SQL (MySQL), and Data Visualization (Tableau).
 
 -   ## 🛠️ My Tech Stack
 
